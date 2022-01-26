@@ -68,7 +68,7 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="10" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="delay.h" selected="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="72" y="17" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="clock_config.c" selected="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="18" y="6873" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="STM32G0xx/CMSIS/Device/Include/stm32g071xx.h" selected="0" top="6866" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="system_config.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="25" y="16" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="system_config.h" selected="1" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="24" y="13" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="system_config.c" selected="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="timer_config.c" selected="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="11" y="7" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="timer_config.h" selected="0" top="0" codecName="Default"/>
